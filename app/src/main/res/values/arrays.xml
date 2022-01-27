@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aviones</string>
+    <string-array name="salida">
+        <item>Santiago</item>
+        <item>Coruña</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Francia</item>
+        <item>Madrid</item>
+        <item>Londres</item>
+        <item>New York</item>
+        <item>Japón</item>
+        <item>Rusia</item>
+        <item>Grecia</item>
+    </string-array>
+
+    <string name="fecha">SELECTOR DE FECHA</string>
+
+    <string name="passmin">THE MINIMUM NUMBER OF PASSENGERS ARE 0</string>
+
+    <string name="passmax">THE MINIMUM NUMBER OF PASSENGERS ARE 19</string>
+
+    <string name="reserv">Quieres reservar este vuelo?</string>
+
+    <string name="errorlog">The login data is incorrect</string>
+
+    <string name="regist">Registration correct, Log in now</string>
+
+    <string name="errorfech">NO ES POSIBLE ESCOGER DIAS ANTERIORES A HOY</string>
+</resources>
